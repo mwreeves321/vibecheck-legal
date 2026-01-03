@@ -1,15 +1,15 @@
-# Vibe Check Legal Documents
+# Valyd Legal Documents
 
-Legal documentation for the Vibe Check mobile app.
+Legal documentation for the Valyd mobile app.
 
 ## 📱 About Vibe Check
 
-Vibe Check is an anonymous compliment app for college students. Vote for your friends on fun prompts and receive anonymous compliments!
+Valyd is an anonymous compliment app for college students. Vote for your friends on fun prompts and receive anonymous compliments!
 
 ## 📄 Documents
 
-- [Privacy Policy](https://mwreeves321.github.io/vibecheck-legal/privacy.html)
-- [Terms of Service](https://mwreeves321.github.io/vibecheck-legal/terms.html)
+- [Privacy Policy](https://mwreeves321.github.io/valyd-legal/privacy.html)
+- [Terms of Service](https://mwreeves321.github.io/valyd-legal/terms.html)
 
 ## 📧 Contact
 
@@ -23,4 +23,4 @@ Vibe Check is an anonymous compliment app for college students. Vote for your fr
 
 ---
 
-© 2026 Vibe Check. All rights reserved.
+© 2026 Valyd. All rights reserved.
