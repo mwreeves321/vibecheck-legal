@@ -10,6 +10,8 @@ Valyd is an anonymous compliment app for college students. Vote for your friends
 
 - [Privacy Policy](https://mwreeves321.github.io/valyd-legal/privacy.html)
 - [Terms of Service](https://mwreeves321.github.io/valyd-legal/terms.html)
+- [Delete Account](https://mwreeves321.github.io/valyd-legal/delete.html)
+
 
 ## 📧 Contact
 
