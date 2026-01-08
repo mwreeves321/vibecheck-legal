@@ -2,7 +2,7 @@
 
 Legal documentation for the Valyd mobile app.
 
-## 📱 About Vibe Check
+## 📱 About Valyd
 
 Valyd is an anonymous compliment app for college students. Vote for your friends on fun prompts and receive anonymous compliments!
 
@@ -15,8 +15,8 @@ Valyd is an anonymous compliment app for college students. Vote for your friends
 
 ## 📧 Contact
 
-- Support: support@vibecheck.app
-- Legal: legal@vibecheck.app
+- Support: labsvibrance@gmail.com
+- Legal: labsvibrance@gmail.com
 
 ## 🔗 Links
 
